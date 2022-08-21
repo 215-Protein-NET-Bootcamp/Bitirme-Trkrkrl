@@ -268,7 +268,7 @@ Bu method giriş yapmış kullanıcının claims bilgilerinden userId bilgisini 
 
 <br/>
 
-<img src="https://github.com/215-Protein-NET-Bootcamp/Bitirme-Trkrkrl/blob/master/Images/Brand-Delete.pngs">
+<img src="https://github.com/215-Protein-NET-Bootcamp/Bitirme-Trkrkrl/blob/master/Images/Brand-Delete.png">
 
 <br/>
 
